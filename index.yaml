@@ -4,7 +4,7 @@ entries:
   - apiVersion: v2
     appVersion: 6.1.0.0
     annotations:
-      helm-chart.openshift.io/providerType: 'partner'
+      charts.openshift.io/providerType: 'partner'
     created: "2021-04-05T23:12:21.663653499-07:00"
     dependencies:
     - alias: sch
@@ -42,7 +42,7 @@ entries:
   - apiVersion: v2
     appVersion: 10.0.0.15
     annotations:
-      helm-chart.openshift.io/providerType: 'partner'
+      charts.openshift.io/providerType: 'partner'
     created: "2021-04-05T23:12:21.740573866-07:00"
     dependencies:
     - alias: sch
@@ -91,7 +91,7 @@ entries:
   - apiVersion: v2
     appVersion: 10.0.0.12
     annotations:
-      helm-chart.openshift.io/providerType: 'partner'
+      charts.openshift.io/providerType: 'partner'
     created: "2021-04-05T23:12:21.714610435-07:00"
     description: |-
       IBM Sterling Configure, Price, Quote (CPQ) solution enables you to quickly configure, price, quote and order the right products and services.
@@ -134,7 +134,7 @@ entries:
   - apiVersion: v2
     appVersion: 10.0.0.10
     annotations:
-      helm-chart.openshift.io/providerType: 'partner'
+      charts.openshift.io/providerType: 'partner'
     created: "2021-04-05T23:12:21.686076552-07:00"
     description: |-
       IBM Sterling Configure, Price, Quote (CPQ) solution enables you to quickly configure, price, quote and order the right products and services.
@@ -178,7 +178,7 @@ entries:
   - apiVersion: v2
     appVersion: 4.4.0
     annotations:
-      helm-chart.openshift.io/providerType: 'partner'
+      charts.openshift.io/providerType: 'partner'
     created: "2021-04-05T23:12:21.741719875-07:00"
     description: IBM Managed Helm Chart would allow you to deploy Enterprise MongoDB
       on OpenShift Container Platform hosted on IBM Power systems.  Documentation
@@ -203,7 +203,7 @@ entries:
   - apiVersion: v2
     appVersion: 2.0.7
     annotations:
-      helm-chart.openshift.io/providerType: 'community'
+      charts.openshift.io/providerType: 'community'
     created: "2021-04-05T23:12:21.75105992-07:00"
     description: |
       Chart for deploying ibmcloud object storage plugin.
@@ -239,7 +239,7 @@ entries:
   - apiVersion: v2
     appVersion: 2.0.4
     annotations:
-      helm-chart.openshift.io/providerType: 'community'
+      charts.openshift.io/providerType: 'community'
     created: "2021-04-05T23:12:21.74633581-07:00"
     description: |
       Chart for deploying ibmcloud object storage plugin.
@@ -275,7 +275,7 @@ entries:
   - apiVersion: v2
     appVersion: 2.0.0
     annotations:
-      helm-chart.openshift.io/providerType: 'community'
+      charts.openshift.io/providerType: 'community'
     created: "2021-04-05T23:12:21.743449227-07:00"
     description: |
       Chart for deploying ibmcloud object storage plugin.
@@ -312,7 +312,7 @@ entries:
   - apiVersion: v2
     appVersion: 10.0.0
     annotations:
-      helm-chart.openshift.io/providerType: 'partner'
+      charts.openshift.io/providerType: 'partner'
     created: "2021-03-29T09:03:05.25577997-04:00"
     dependencies:
     - alias: sch
@@ -347,7 +347,7 @@ entries:
   - apiVersion: v2
     appVersion: 10.0.0
     annotations:
-      helm-chart.openshift.io/providerType: 'partner'
+      charts.openshift.io/providerType: 'partner'
     created: "2021-04-05T23:12:21.808842115-07:00"
     dependencies:
     - alias: sch
@@ -387,7 +387,7 @@ entries:
   - apiVersion: v2
     appVersion: 10.0.0
     annotations:
-      helm-chart.openshift.io/providerType: 'partner'
+      charts.openshift.io/providerType: 'partner'
     created: "2021-04-05T23:12:21.787304095-07:00"
     dependencies:
     - alias: sch
@@ -427,7 +427,7 @@ entries:
   - apiVersion: v2
     appVersion: 10.0.0
     annotations:
-      helm-chart.openshift.io/providerType: 'partner'
+      charts.openshift.io/providerType: 'partner'
     created: "2021-04-05T23:12:21.772729946-07:00"
     dependencies:
     - alias: sch
@@ -467,7 +467,7 @@ entries:
   - apiVersion: v2
     appVersion: 10.0.0
     annotations:
-      helm-chart.openshift.io/providerType: 'community'
+      charts.openshift.io/providerType: 'community'
     created: "2021-03-29T09:03:05.372725712-04:00"
     dependencies:
     - alias: sch
@@ -502,7 +502,7 @@ entries:
   - apiVersion: v2
     appVersion: 10.0.0
     annotations:
-      helm-chart.openshift.io/providerType: 'community'
+      charts.openshift.io/providerType: 'community'
     created: "2021-04-05T23:12:21.863183116-07:00"
     dependencies:
     - alias: sch
@@ -542,7 +542,7 @@ entries:
   - apiVersion: v2
     appVersion: 10.0.0
     annotations:
-      helm-chart.openshift.io/providerType: 'community'
+      charts.openshift.io/providerType: 'community'
     created: "2021-04-05T23:12:21.848340402-07:00"
     dependencies:
     - alias: sch
@@ -582,7 +582,7 @@ entries:
   - apiVersion: v2
     appVersion: 10.0.0
     annotations:
-      helm-chart.openshift.io/providerType: 'community'
+      charts.openshift.io/providerType: 'community'
     created: "2021-04-05T23:12:21.827028823-07:00"
     dependencies:
     - alias: sch
@@ -622,7 +622,7 @@ entries:
   - apiVersion: v2
     appVersion: 1.1.0
     annotations:
-      helm-chart.openshift.io/providerType: 'community'
+      charts.openshift.io/providerType: 'community'
     created: "2021-04-05T23:12:21.868051734-07:00"
     description: 'IBM Operator Catalog enablement deploys custom CatalogSources and
       ImageContentSourcePolicy  resources to enable consistent Catalog experience
@@ -653,7 +653,7 @@ entries:
   - apiVersion: v2
     appVersion: 1.0.0
     annotations:
-      helm-chart.openshift.io/providerType: 'community'
+      charts.openshift.io/providerType: 'community'
     created: "2021-04-05T23:12:21.864472985-07:00"
     description: |
       IBM Operator Catalog enablement deploys custom CatalogSources for operators
@@ -688,7 +688,7 @@ entries:
   - apiVersion: v2
     appVersion: 6.1.0.0
     annotations:
-      helm-chart.openshift.io/providerType: 'community'
+      charts.openshift.io/providerType: 'community'
     created: "2021-04-05T23:12:21.906112459-07:00"
     dependencies:
     - alias: sch
@@ -725,7 +725,7 @@ entries:
   nodejs:
   - apiVersion: v2
     annotations:
-      helm-chart.openshift.io/providerType: 'redhat'
+      charts.openshift.io/providerType: 'redhat'
     created: "2021-04-05T23:12:21.907085673-07:00"
     description: A Helm chart to build and deploy Node.js applications
     digest: eeb75da3ec2e4d63fcc69aaa51d5d5a6fe0573414ac8d7341f73faed7c439ac4
@@ -740,7 +740,7 @@ entries:
   - apiVersion: v2
     appVersion: 1.16.0
     annotations:
-      helm-chart.openshift.io/providerType: 'redhat'
+      charts.openshift.io/providerType: 'redhat'
     created: "2021-04-05T23:12:21.909004335-07:00"
     description: A Helm chart for Kubernetes
     digest: 4340070f6b0d04ebb2ea4a10046b89c9f1706c62ae67bdc247ff6a59b9d035ec
@@ -752,7 +752,7 @@ entries:
   - apiVersion: v2
     appVersion: 1.16.0
     annotations:
-      helm-chart.openshift.io/providerType: 'redhat'
+      charts.openshift.io/providerType: 'redhat'
     created: "2021-04-05T23:12:21.908358794-07:00"
     description: A Helm chart for Kubernetes
     digest: 9f8eca455f8379baddd6ab61bd5517373514bb99bedbbddffb98ad88ac9841cc
@@ -764,7 +764,7 @@ entries:
   - apiVersion: v2
     appVersion: 1.16.0
     annotations:
-      helm-chart.openshift.io/providerType: 'redhat'
+      charts.openshift.io/providerType: 'redhat'
     created: "2021-04-05T23:12:21.907709245-07:00"
     description: A Helm chart for Kubernetes
     digest: 64b36fee719567e2aae8cb6186ba02a56dc62a90df71af7f90cc1d9d2cd1fb25
@@ -776,7 +776,7 @@ entries:
   quarkus:
   - apiVersion: v2
     annotations:
-      helm-chart.openshift.io/providerType: 'redhat'
+      charts.openshift.io/providerType: 'redhat'
     created: "2021-04-05T23:12:21.912168555-07:00"
     description: A Helm chart to build and deploy Quarkus applications
     digest: 6d8f1b945c037f1f252e532430c21ef723bc11fab369ef26d316fff69c4ffade
@@ -789,7 +789,7 @@ entries:
     version: 0.0.3
   - apiVersion: v2
     annotations:
-      helm-chart.openshift.io/providerType: 'redhat'
+      charts.openshift.io/providerType: 'redhat'
     created: "2021-04-05T23:12:21.911063468-07:00"
     description: A Helm chart to build and deploy Quarkus applications
     digest: 28a4c48bb9882edf04e916a643ff5936d72e60cc033e2e359b730b01b605ffac
@@ -802,7 +802,7 @@ entries:
     version: 0.0.2
   - apiVersion: v2
     annotations:
-      helm-chart.openshift.io/providerType: 'redhat'
+      charts.openshift.io/providerType: 'redhat'
     created: "2021-04-05T23:12:21.91011321-07:00"
     description: A Helm chart to build and deploy Quarkus applications
     digest: dfa7f44698fc820e84f349929cd81c2ddbafb8d42e723df770e6ae7e72657b82
